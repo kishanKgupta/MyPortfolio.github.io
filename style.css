@@ -177,7 +177,7 @@ nav ul li a:hover::after {
   position: relative;
   overflow: hidden;
 }
-.work1{
+#open{
   display:none;
 }
 .work img {
